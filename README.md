@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruceld14&label=Profile%20views&color=0e75b6&style=flat" alt="bruceld14" /> </p>
 
-- 🌱 I’m currently learning **React.Js, UI/UX**
+- 🌱 I’m currently learning **PHP, React.Js, UI/UX**
 
 - 💬 Ask me about **Web Development**
 
